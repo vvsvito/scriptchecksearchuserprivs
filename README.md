@@ -24,7 +24,8 @@ Humorous & simple(ish) BASH script that checks system "privs",  searches for a t
 #   runs a quick interactive challenge,
 #   and records the audit results.
 
-# Script REQUIREMENTS:        # 5 Sections      # 1 - 5 # :
+# Pre-Script Plan:
+# Script Personal REQUIREMENTS:        # 5 Sections      # 1 - 5 # :
  
 # Usage Function & Arguement Verification:
 *    Define a 'display_usage' function that outputs 
