@@ -1,5 +1,5 @@
 # scriptchecksearchuserprivs
-A simple(ish) BASH script that checks system "privs",  searches for a target user account, runs a quick interactive challenge, and records the audit results.
+Humorous & simple(ish) BASH script that checks system "privs",  searches for a target user account, runs a quick interactive challenge, and records the audit results.
 
 # # # A SAMPLE PROJECT # # #
 
